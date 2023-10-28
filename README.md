@@ -1,2 +1,2 @@
-# devopslab-template
-Repositório Template para Importação do Laboratório DevOps &amp; Cloud
+# devopslab
+Lab de DevOps e Cloud do MBA Data Engeniring
